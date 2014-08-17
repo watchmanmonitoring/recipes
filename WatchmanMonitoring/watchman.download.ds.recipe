@@ -18,7 +18,7 @@
 		<key>DS_NAME</key>
 		<string>%NAME%</string>
     </dict>
-	<!-- Not sure how this versioning bit works.  -->
+	<!-- This key is relative to the minimum version of Autopkg required to run the recipe. It does not refer to versioning checks for the Watchman Client package. I am not sure if this is or is not required yet though.  -->
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>Process</key>
