@@ -10,9 +10,8 @@
     <dict>
         <key>NAME</key>
         <string>Watchman</string>
-		<!-- Maybe there is a generic URL that can go here?  -->
         <key>DOWNLOAD_URL</key>
-        <string>https://electricuniverse.monitoringclient.com/downloads/MonitoringClient.pkg</string>
+        <string>https://yourorganisation.monitoringclient.com/downloads/MonitoringClient.pkg</string>
         <key>DS_PKGS_PATH</key>
 		<string>/DATA/Operations/IT/DeployStudioShare/Packages</string>
 		<key>DS_NAME</key>
